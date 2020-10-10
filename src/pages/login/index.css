@@ -1,0 +1,23 @@
+.login-card{
+    width: 400px;
+    height: 300px;
+    border: 1px solid rgb(96, 200, 231);
+    /* overflow: hidden;  */
+    position: absolute;
+    left:42%;
+    top:38%;
+    margin: -50px 0 0 -50px; 
+    filter:alpha(Opacity=80);
+    -moz-opacity:0.3;
+    opacity: 0.8;
+    background-color: rgb(183, 218, 241);
+    border-radius:10px;
+}
+
+.background-image{
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.login-frot{
+color: rgb(7, 7, 7);
+}
